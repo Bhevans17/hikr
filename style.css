@@ -1,0 +1,15 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  background: url("./img/activity-adventure-backlit-backpack-450062.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+}
+
+#random {
+  color: #aa9d73;
+}
