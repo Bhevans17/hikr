@@ -7,9 +7,13 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 80vh;
+  height: 100vh;
 }
 
 #random {
   color: #aa9d73;
+}
+
+.fa-shopping-bag {
+  font-size: 1.4rem;
 }
